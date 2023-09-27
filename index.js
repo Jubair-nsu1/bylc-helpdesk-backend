@@ -8,7 +8,6 @@ const jwt = require('jsonwebtoken')
 const bcrypt = require('bcryptjs')
 const nodemailer = require("nodemailer");
 const isempty = require('lodash.isempty');
-const helmet = require('helmet');
 const multer = require("multer");
 
 //Files
